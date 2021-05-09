@@ -1,4 +1,11 @@
 
+/*Add Bootstrap with level 8 to the front end skill sets
+Add Express with level 9 to the back end skill sets
+Add SQL with level 8 to the data base skill sets
+Add SQL without level to the data science skill sets*/
+
+
+
 const student1 = {
     name: 'David',
     age: 25,
